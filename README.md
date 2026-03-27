@@ -66,13 +66,10 @@ The game is designed to:
 
 ## 💻 How to Run
 
-Compile:
-g++ hangman.cpp -o hangman
-
-Run:
-./hangman
-
----
+1.Open the folder where your hangman.cpp file is
+2.Open Command Prompt / Terminal in that folder
+3.Type: the exe file name.
+4.Press Enter → your game will start 😈
 
 ## 📸 Example
 
